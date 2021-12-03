@@ -1,0 +1,1 @@
+﻿Send-MailMessage -To '' -From '' -Subject 'test sub' -Body 'test body' -SmtpServer '' -Port 25
